@@ -1,5 +1,5 @@
 # speaking-clock
-Simple clock in python which can also tells you the current time in via voice command.</br>
+Simple clock in python which can also tells you the current time via voice command.</br>
 
 ### Libraries used in this project:</br>
 * tkinter for gui </br>
